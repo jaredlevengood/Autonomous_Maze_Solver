@@ -21,6 +21,8 @@ This project implements an autonomous navigation system in MATLAB that solves ra
 * **Automated Video Generation**: Uses the `VideoWriter` class to automatically export the solved maze as an `.avi` file for external review.
 * **Live Visualization**: Provides a real-time graphical display of the robot's progress during the solving phase.
 
+--------------------------------------------
+
 ## What the Script Does
 
 1. **Generates the Maze**: Calls `generate_maze.m` to create the grid.
