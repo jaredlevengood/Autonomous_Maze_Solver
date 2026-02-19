@@ -51,10 +51,10 @@ The project demonstrates several intermediate-to-advanced MATLAB concepts:
 
 **Requirements:**
 - MATLAB
-- MATLAB_Project_Maze.m
-- generate_maze.m
+- `MATLAB_Project_Maze.m`
+- `generate_maze.m`
 
-Steps:
+**Steps:**
 1. Open MATLAB
 2. Set Current Folder to this project directory
 3. Run: MATLAB_Project_Maze
