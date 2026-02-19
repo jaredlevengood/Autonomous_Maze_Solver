@@ -7,6 +7,9 @@
 # MATLAB figure files (we only track exported images like .png)
 *.fig
 
+# Generated media files
+*.avi
+
 # Code generation / cache folders
 codegen/
 coder/
